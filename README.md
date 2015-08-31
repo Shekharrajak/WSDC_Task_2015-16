@@ -10,6 +10,7 @@ Django and angular is used to make a user registration system.
 *'activate env'
 * 'pip install -r requirements.txt'
 * 'npm install'
+*  npm install -g bower
 * 'bower install'
 * 'python manage.py migrate'
 * 'python manage.py runserver'
