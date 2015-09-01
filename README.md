@@ -29,15 +29,16 @@ $ python manage.py shell
 
 and import the app databse models :
 
->>> from authentication.models import Account
+> from authentication.models import Account
 
 Show all the current users
 
->>> print Account.objects.all()
+> print Account.objects.all()
+
 [] # Returns an list of all registered user.
 
  Quit the Django shell.
->>> quit()
+> quit()
 
 
 
