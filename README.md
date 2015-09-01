@@ -42,8 +42,10 @@ Show all the current users
 
 
 
+
 Note : 
-post part of the app is not completed.
+* Best view in chrome ,firfox may not work fully.
+* post part of the app is not completed.
 
 
 Reference:
