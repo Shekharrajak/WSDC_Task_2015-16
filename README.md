@@ -20,7 +20,8 @@ Setting and profile page is there just showing the details only.
 * 'python manage.py runserver'
 
 You can see the database using :
-       'python manage.py sqlmigrate <app_name> 0001'
+* 'python manage.py sqlmigrate <app_name> 0001'
+       
 here app name are : authentication , posts .
 
 
