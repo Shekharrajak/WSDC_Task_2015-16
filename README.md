@@ -44,7 +44,7 @@ Show all the current users
 
 
 Note : 
-* Best view in chrome ,firfox may not work fully.
+* Best view in chrome.firfox may not work correctly in js part.
 * post part of the app is not completed.
 
 
@@ -53,6 +53,7 @@ Reference:
 * 'thinkster.io tutorial : django-angular tutorial.'
 * 'Django docs.'
 * 'Djangular docs.'
+* css from bootswatch.com free bootstrap stylesheet.
 
 
 
