@@ -53,6 +53,7 @@ Reference:
 * 'thinkster.io tutorial : django-angular tutorial.'
 * 'Django docs.'
 * 'Djangular docs.'
+* css from bootswatch.com free bootstrap stylesheet.
 
 
 
