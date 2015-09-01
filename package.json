@@ -1,5 +1,5 @@
 {
-  "name": "WSDC task",
+  "name": "WSDC",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": ""
   },
-  "author": "",
+  "author": "spr",
   "license": "ISC",
   "bugs": {
     "url": ""
