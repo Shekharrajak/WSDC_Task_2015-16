@@ -44,6 +44,8 @@ Show all the current users
 
 Note : 
 post part of the app is not completed.
+
+
 Reference:
 * 'code.tutsplus.com tutorial : django rest framework'
 * 'thinkster.io tutorial : django-angular tutorial.'
