@@ -20,5 +20,7 @@ Reference:
 * 'code.tutsplus.com tutorial : django rest framework'
 * 'thinkster.io tutorial : django-angular tutorial.'
 * 'Django docs.'
+* 'Djangular docs.'
+
 
 
