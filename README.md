@@ -4,7 +4,7 @@ Django and angular is used to make a user registration system.
 
 ####Features :
 People can register their self and login.You can see the user's username after login and right corner.
-Setting and profile page is there just showing the details only.
+Setting and profile page is there ,showing the details only.
 
 
 ###Installation:
@@ -45,6 +45,7 @@ Show all the current users
 
 Note : 
 * Best view in chrome.firfox may not work correctly in js part.
+* If first time webpage is not working, be patient and refresh/reload your page 1-2 times with both browser.
 * post part of the app is not completed.
 
 
