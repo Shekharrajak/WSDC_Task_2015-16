@@ -45,6 +45,7 @@ Show all the current users
 
 Note : 
 * Best view in chrome.firfox may not work correctly in js part.
+* If first time webpage is not working, be patient and refresh/reload your page 1-2 times with both browser.
 * post part of the app is not completed.
 
 
