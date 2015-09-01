@@ -22,7 +22,21 @@ Setting and profile page is there just showing the details only.
 You can see the database using :
 * 'python manage.py sqlmigrate <app_name> 0001'
        
-here app name are : authentication , posts .
+here app name are : authentication , posts.
+
+Go to python shell : 
+$ python manage.py shell
+
+and import the app databse models :
+
+>>> from authentication.models import Account
+
+Show all the current users
+>>> print Account.objects.all()
+[] # Returns an list of all registered user.
+ Quit the Django shell.
+>>> quit()
+
 
 
 Note : 
